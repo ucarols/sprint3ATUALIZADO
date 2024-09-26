@@ -20,7 +20,7 @@ Antes de iniciar, verifique se você tem  instalado em sua máquina:
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/uCarols/porto-assistente.git
+   git clone https://github.com/uCarols/sprint3ATUALIZADO
 
 2. Acesse o diretório do projeto:
 
