@@ -1,0 +1,84 @@
+.secao-contato {
+    padding: 30px 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.secao-contato h2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.secao-contato p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    color: #000;
+}
+
+.formulario-contato {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.grupo-formulario {
+    margin-bottom: 15px;
+}
+
+.grupo-formulario label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #000;
+}
+
+.grupo-formulario input,
+.grupo-formulario textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+.grupo-formulario textarea {
+    height: 80px;
+}
+
+.botao-enviar {
+    padding: 8px 16px;
+    background-color: #00aaff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.botao-enviar:hover {
+    background-color: #008bb5;
+}
+
+@media (max-width: 768px) {
+    .secao-contato {
+        padding: 20px 5px;
+    }
+
+    .secao-contato h2 {
+        font-size: 20px;
+    }
+
+    .secao-contato p {
+        font-size: 14px;
+    }
+
+    .formulario-contato {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+}

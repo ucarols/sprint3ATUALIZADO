@@ -1,0 +1,65 @@
+.secao-quem-somos {
+    padding: 30px 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.secao-quem-somos h2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.secao-quem-somos p {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.secao-quem-somos h3 {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #000;
+    padding-top: 60px;
+}
+
+.container-equipe {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.membro-equipe {
+    text-align: center;
+}
+
+.foto-membro {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    object-fit: cover;
+}
+
+.membro-equipe strong {
+    color: black;
+    display: block;
+    margin-top: 5px;
+}
+
+.membro-equipe div {
+    color: gray;
+}
+
+@media (max-width: 768px) {
+    .container-equipe {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .membro-equipe {
+        margin-bottom: 20px;
+    }
+}
