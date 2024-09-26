@@ -14,7 +14,7 @@
 Antes de iniciar, verifique se você tem  instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/) 
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/) 
 
 ## Instalação
 
