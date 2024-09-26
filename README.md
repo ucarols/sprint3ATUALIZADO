@@ -1,6 +1,6 @@
 # Porto Assistente
 
-**Porto Assistente** é um projeto que oferece uma solução digital para auxiliar motoristas com diagnósticos automotivos, suporte e comunicação com uma inteligência artificial chamada **Ivy**.
+**Porto Assistente** é um projeto que oferece uma solução digital para auxiliar motoristas com diagnósticos automotivos, suporte e comunicação com a IA **Ivy**.
 
 ## Funcionalidades
 - Diagnóstico rápido do veículo com base em sintomas relatados
