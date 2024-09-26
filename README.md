@@ -11,7 +11,7 @@
 
 ## Requisitos
 
-Antes de iniciar, verifique se você tem  instalado em sua máquina:
+Antes de iniciar, verifique se vocee tem  instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/) 
 - [npm](https://www.npmjs.com/) 
